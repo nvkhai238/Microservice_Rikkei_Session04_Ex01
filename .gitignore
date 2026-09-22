@@ -1,0 +1,13 @@
+**/bin/
+bin/
+build/
+.DS_Store
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+.idea/
+*.iml
+*.iws
+*.log
+out/
+!**/src/main/**/build/
+!**/src/test/**/build/
